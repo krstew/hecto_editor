@@ -1,1 +1,1 @@
-/home/kevin/learn_rust/hecto/target/debug/hecto: /home/kevin/learn_rust/hecto/src/editor.rs /home/kevin/learn_rust/hecto/src/main.rs /home/kevin/learn_rust/hecto/src/terminal.rs
+/home/kevin/learn_rust/hecto_editor/target/debug/hecto: /home/kevin/learn_rust/hecto_editor/src/document.rs /home/kevin/learn_rust/hecto_editor/src/editor.rs /home/kevin/learn_rust/hecto_editor/src/main.rs /home/kevin/learn_rust/hecto_editor/src/row.rs /home/kevin/learn_rust/hecto_editor/src/terminal.rs
