@@ -48,11 +48,7 @@ impl Editor {
             if self.should_quit {
                 println!("Goodbye.\r");
                 break;
-            } else {
-                self.draw_rows();
-                print!("{}", termion::cursor::Goto(1, 1));
-            }
-
+            } 
             if let Err(error) = self.process_keypress() {
                 die(&error);
             }            
